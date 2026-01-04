@@ -1,0 +1,13 @@
+=== BEST TRAIN/VAL METRICS SUMMARY ===
+
+Best val_loss epoch: 3
+  train_loss: 0.0243
+  val_loss  : 0.1622
+  train_acc : 0.9908
+  val_acc   : 0.9639
+
+Best val_accuracy epoch: 3
+  train_loss: 0.0243
+  val_loss  : 0.1622
+  train_acc : 0.9908
+  val_acc   : 0.9639

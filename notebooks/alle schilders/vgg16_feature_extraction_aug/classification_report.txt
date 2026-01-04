@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   Mondriaan      0.977     0.843     0.905        51
+     Picasso      0.898     0.991     0.942       230
+   Rembrandt      0.906     0.784     0.841        37
+      Rubens      0.967     0.854     0.907       103
+
+    accuracy                          0.922       421
+   macro avg      0.937     0.868     0.899       421
+weighted avg      0.925     0.922     0.920       421
