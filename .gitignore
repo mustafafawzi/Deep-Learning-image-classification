@@ -1,0 +1,9 @@
+# Virtual environment
+venv_tf215/
+
+# Cleaned images
+schilderijen/
+datasets/
+
+*.h5
+*.keras
