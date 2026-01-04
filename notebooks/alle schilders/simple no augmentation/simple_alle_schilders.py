@@ -66,7 +66,7 @@ def save_training_curves(history, out_path: Path):
     plt.close()
 
 
-# Datasets (zoals je klasgenoot)
+# Datasets
 print("--- Training Data ---")
 train_ds = tf.keras.utils.image_dataset_from_directory(
     TRAIN_DIR,
